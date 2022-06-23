@@ -8,3 +8,9 @@
 I performed detailed Data Analysis such aa EDA, Feature Selection, Data Preprocessing, Data Cleaning and then Visualize the data using Matplotlib and Seaborn.
 
 Goal of this project is to check all the metrics which are effecting the success of Restaurants in Bangalore like Location, Type of Cuisines, Type Of Restaurant, Cost of dishes which play an important role for a success of restaurants.
+
+#### Data set:
+https://www.kaggle.com/datasets/absin7/zomato-bangalore-dataset?select=zomato.csv
+
+
+Fork this repo if you can Analyze this dataset in some other way
